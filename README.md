@@ -25,6 +25,6 @@ The Class C Amplifier is Widely used in Term of RF, it consume smaller Power com
 # Output of The Modulator 
 
 
-<img width="1160" height="544" alt="oscillator" src="https://github.com/user-attachments/assets/b7df372e-4261-4216-a679-e1f6882672e2" />
+
 
 # A Matching Circuit is Needed For This Low Power RF Module
