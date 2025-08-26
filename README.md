@@ -6,7 +6,7 @@ The Board Contain 4 Main Stages :
 Audio Amplification through LM386.
 A buffer Stage to isolate the oscillator from the Ic and amplify the current 
 Oscillator Stage through Colpitts Oscillator and a Crystal of 1.5 Mhz to produce the carrier Wave.
-Modulation Stage with an Amplifier Class C ( Common Collector with an LC Tank ), to select the main Frequency and Amplify it.
+Modulation Stage with an Amplifier Class C ( Common Emitter with an LC Tank ), to select the main Frequency and Amplify it.
 PCB Design Though Altium ( 2 Layers are used, Pour Copper Grounded to Stabilise The Board from any Noise)
 
 All BJT (2N222) Transistors are with Biasing to Maintain the Transistors in Active Region.
