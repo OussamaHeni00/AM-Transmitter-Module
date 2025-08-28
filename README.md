@@ -11,7 +11,7 @@ PCB Design Though Altium ( 2 Layers are used, Pour Copper Grounded to Stabilise 
 
 All BJT (2N222) Transistors are with Biasing to Maintain the Transistors in Active Region.
 an RFC is intend to isolate the reflected AC Voltages from the Power Supply which is 10 Volt.
-In Term of Resistances it is curcial to choose the Adequate Power to prevent any Heating and Collapse of The Components in the Circuit. P= Vcc / R= R * I^2
+In Term of Resistances it is curcial to choose the Adequate Power to prevent any Heating and Collapse of The Components in the Circuit. P= Vcc^2 / R= R * I^2
 Coupling Capacitors Cancels the DC and permit to sound waves (AC) to Continue.
 Decoupling small Capacitors permit to Smooth the Wave and reduce the Noise.
 The LC Tank is Working is Resonance Mode  1.5 MHZ = 1/( 2 * pi * square (L * C)) To select the Main Frequence and send it to the Antenna.
