@@ -14,7 +14,7 @@ an RFC is intend to isolate the reflected AC Voltages from the Power Supply whic
 In Term of Resistances it is curcial to choose the Adequate Power to prevent any Heating and Collapse of The Components in the Circuit. P= Vcc^2 / R= R * I^2
 Coupling Capacitors Cancels the DC and permit to sound waves (AC) to Continue.
 Decoupling small Capacitors permit to Smooth the Wave and reduce the Noise.
-The LC Tank is Working is Resonance Mode  1.5 MHZ = 1/( 2 * pi * square (L * C)) To select the Main Frequence and send it to the Antenna.
+The LC Tank is Working is Resonance Mode  1.5 MHZ = 1/( 2 * pi * √(L * C)) To select the Main Frequence and send it to the Antenna.
 The Class C Amplifier is Widely used in Term of RF, it consume smaller Power compare to  Class B and adaptable for better Amplification of RF with Smaller Noise.
 
 # Visualisation of the Oscillator Wave Frequency Through Multisim :
